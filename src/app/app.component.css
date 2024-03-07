@@ -1,0 +1,18 @@
+.cronometro{
+    display: flex;
+    width: 150px;
+    padding: 10px;
+    background-color: aqua;
+}
+.saludo{
+
+    padding: 10px;
+    text-align: center;
+    background-color: beige;
+    display: flex;
+    width: 150px;
+}
+button{
+    justify-content: space-around;
+    
+}
